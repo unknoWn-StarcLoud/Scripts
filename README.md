@@ -1,0 +1,2 @@
+# Scripts
+个人编写，便于Linux甚至Termux安装一些安装过程比较复杂的项目的shell脚本
